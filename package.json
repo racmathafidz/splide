@@ -51,5 +51,6 @@
     "build:sass": "gulp build:sass",
     "test": "jest --clearCache && jest",
     "lint": "gulp lint"
-  }
+  },
+"private": true 
 }
